@@ -1,3 +1,4 @@
 # New Project
 
-This project was created form local machine.
+This project was build form local machine.
+Created by me.
